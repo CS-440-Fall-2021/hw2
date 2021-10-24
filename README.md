@@ -38,7 +38,7 @@ Deadline: 2359h on Sunday, 17 October
 
 ## 2.2 Feedback
 
-You will provide feedback on your teammate and on the homework. The feedback form will be available on LMS with further instructions and will be due at the same time as the problem set.
+You will provide feedback on your buddies and on the homework. The feedback form will be available on LMS with further instructions and will be due at the same time as the problem set.
 
 This is an individual submission on LMS and contributes to your individual _Team Factor_ which is 1 by default and penalized for non-submission or non-participation in the team as assessed through peer feedback or GitHub contribution.
 
@@ -62,7 +62,7 @@ Your individual score in this homework is the product of your Submission Score, 
 
 This is a challenging assignment. Start early and do lots of discussion through the following avenues:
 
-- discuss with your teammate,
+- discuss with your buddies,
 - the corresponding discussion thread on LMS,
 - discuss with your peers,
 - consult with course staff.
