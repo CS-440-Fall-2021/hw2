@@ -44,7 +44,7 @@ This is an individual submission on LMS and contributes to your individual _Team
 
 Deadline: 2359h on Sunday, 17 October
 
-## 1.3 Peer Review
+## 2.3 Peer Review
 
 You will review and grade 2 submissions which will be shared with you through an assignment on LMS. The assignment will become available on LMS with further instructions after the submission of the first 2 parts.
 
